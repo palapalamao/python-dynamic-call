@@ -1,2 +1,2 @@
 
-current_branch = "mynewnamedevelopbranch"
+current_branch = "developbranch"
