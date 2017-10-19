@@ -1,2 +1,2 @@
 
-current_branch = "developbranch.py"
+current_branch = "developbranch"
