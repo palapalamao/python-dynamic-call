@@ -29,7 +29,9 @@ def main():
     LazyImport(config.current_branch, "testclass", "report1")
     LazyImport(config.current_branch, "testclass", "report2")
     print("hi")
-    print("branch2222")
+
+    print("dev..................")
+    print("dev..................222222")
 if __name__ == "__main__":
     main()
 
