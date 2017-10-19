@@ -1,2 +1,2 @@
 
-current_branch = "dev.developbranch"
+current_branch = "branch1.branch1"
